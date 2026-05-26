@@ -1,0 +1,20 @@
+# Ellenőrzés
+
+Ez a ZIP már egyben tartalmazza a Pázmánd Természeti Kincsei webappot.
+
+A helyes szerkezet:
+
+pazmand-termeszeti-kincsei-egyben/
+├── package.json
+├── index.html
+├── README.md
+├── public/
+└── src/
+    ├── App.jsx
+    ├── main.jsx
+    └── style.css
+
+Használat:
+1. Csomagold ki a ZIP fájlt.
+2. A kicsomagolt teljes mappát töltsd fel GitHubra, Vercelre vagy Netlifyra.
+3. Ne külön-külön töltsd fel a fájlokat, hanem a teljes mappát egyben.
