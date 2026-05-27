@@ -34,7 +34,8 @@ const species = [
     tip: "Ne próbáljuk megfogni, mert könnyen megsérülhet."
   },
   {
-  name: "Kerti madarak",
+  name: "Kerti madarak"
+    name: "Kerti madarak",
 category: "Állatok",
 image: "/madar.jpg",
 icon: "🐦",
