@@ -72,8 +72,8 @@ const species = [
   {
   name: "Kerti madarak"
 category: "Állatok",
-  image: "./madar.jpg",
 icon: "🐦",
+image: "./madar.jpg",
 season: "egész évben",
 place: "kertekben, fákon, parkokban",
 protected: "védett",
