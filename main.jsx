@@ -34,7 +34,8 @@ const species = [
     tip: "Ne próbáljuk megfogni, mert könnyen megsérülhet."
   },
   {
-    name: "Széncinege",
+    name: "kerti.madarak
+      <img src="/madar.jpg" alt="Madár etetőnél" style={{width: "100%", borderRadius: "12px"}} />",
     category: "Állatok<img src="/madar.jpg" alt="Madár etetőnél" style={{width: "100%", borderRadius: "12px"}} />",
     icon: "🐦",
     season: "egész évben",
