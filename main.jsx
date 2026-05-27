@@ -35,7 +35,7 @@ const species = [
   },
   {
     name: "Széncinege",
-    category: "Állatok",
+    category: "Állatok<img src="/madar.jpg" alt="Madár etetőnél" style={{width: "100%", borderRadius: "12px"}} />",
     icon: "🐦",
     season: "egész évben",
     place: "kertekben, fákon, parkokban",
