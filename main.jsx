@@ -35,17 +35,17 @@ const species = [
   },
   {
     
-      name: "Kerti madarak",
+     
+    name: "Kerti madarak",
 category: "Állatok",
 image: "/madar.jpg",
-      <img src="/madar.jpg" alt="Madár etetőnél" style={{width: "100%", borderRadius: "12px"}} />",
-    category: "Állatok<img src="/madar.jpg" alt="Madár etetőnél" style={{width: "100%", borderRadius: "12px"}} />",
-    icon: "🐦",
-    season: "egész évben",
-    place: "kertekben, fákon, parkokban",
-    protected: "védett",
-    description: "Gyakori énekesmadár fekete fejjel és sárgás hassal. Télen madáretetőknél is megfigyelhető.",
-    tip: "Télen napraforgómaggal segíthetjük."
+icon: "🐦",
+season: "egész évben",
+place: "kertekben, fákon, parkokban",
+protected: "védett",
+description: "Gyakori énekesmadár fekete fejjel és sárgás hassal. Télen madáretetőknél is megfigyelhető.",
+tip: "Télen napraforgómaggal segíthetjük.",
+
   },
   {
     name: "Tavaszi hérics",
