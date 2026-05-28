@@ -7,6 +7,8 @@ import {
 } from "lucide-react";
 import "./style.css";
 
+import szencinegeImg from "./szencinege-madareteto-pazmand.png";
+
 const species = [
   ["Keleti sün","Állatok","🦔","tavasztól őszig","kertekben, bokros részeken, csendes utcákban","védett fajként kezelendő","Éjszakai életmódú kisemlős, amely rovarokat, gilisztákat és csigákat fogyaszt. Ha nappal látjuk, érdemes óvatosan figyelni, nem sérült-e.","Ne adjunk neki tejet, mert árthat neki. Inkább vizet tegyünk ki.","Este indul felfedezőútra, mint egy tüskés kis kertész."],
   ["Vörös róka","Állatok","🦊","egész évben","erdőszéleken, mezők közelében","vadon élő állat","Óvatos, alkalmazkodó ragadozó. Leginkább alkonyatkor vagy hajnalban lehet megpillantani.","Távolról figyeljük, ne etessük.","A róka nagyon ügyesen lopakodik, ezért ritkán látjuk közelről."],
